@@ -28,6 +28,7 @@ Being a scientist of some sort has been my dream job since I was a child. Ever s
 ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-c3002f?style=flat&logo=Rails)
 
 <br>
 
@@ -40,7 +41,7 @@ Being a scientist of some sort has been my dream job since I was a child. Ever s
 <br>
 
 🌱 **Exploring new technologies and developing creative software solutions to make peoples lives easier.**<br>
-🛠 **Tech I'm currently working with:** JavaScript, Angular, Java, Springboot, Git...<br>
+🛠 **Tech I'm currently working with:** JavaScript, Angular, Ruby on Rails, Git...<br>
 🚀 **Learning all about:** JavaScript, React, C#, ASP.NET, Java, Mobile App Development...<br>
 💬 **Ask me about:** Anything tech-related, I'm happy to help!<br>
 ✨ **Fun fact:** I love gaming, mechanics, electronics, coding, creating, and fixing things up.<br>
